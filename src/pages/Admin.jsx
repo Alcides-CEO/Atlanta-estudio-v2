@@ -393,7 +393,7 @@ export default function Admin() {
                   d="M16.5 12.75a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zM18.75 10.5h.008v.008h-.008V10.5z" />
               </svg>
             </div>
-            <span className="font-semibold tracking-tight">Atalanta Estudio</span>
+            <span className="font-semibold tracking-tight">Atlanta Estúdio</span>
             <span className="text-xs text-zinc-500 bg-zinc-800 px-2 py-0.5 rounded-full">Admin</span>
           </div>
           <div className="flex items-center gap-3">
@@ -459,7 +459,7 @@ export default function Admin() {
             </div>
           ))}
           <div className="absolute bottom-5 left-6 z-10">
-            <p className="text-white font-semibold text-lg tracking-tight">Atalanta Estudio</p>
+            <p className="text-white font-semibold text-lg tracking-tight">Atlanta Estúdio</p>
             <p className="text-zinc-400 text-sm mt-0.5">Capturando momentos, guardando memórias.</p>
           </div>
           <div className="absolute bottom-5 right-6 z-10 flex gap-1.5">
@@ -919,7 +919,7 @@ export default function Admin() {
       {/* ✅ FOOTER */}
       <footer className="border-t border-zinc-800 bg-zinc-950 mt-auto">
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-center gap-1 text-sm text-zinc-500">
-          <span>Atalanta Estúdio · Criado pela</span>
+          <span>Atlanta Estúdio · Criado pela</span>
           <button
             onClick={() => setShowMaCodeModal(true)}
             className="text-blue-400 hover:text-blue-300 font-semibold transition underline underline-offset-2"
@@ -1223,7 +1223,7 @@ export default function Admin() {
               {/* Contacto */}
               <div className="pt-2 border-t border-zinc-800">
                 <a
-                  href="https://wa.me/244937999343"
+                  href="https://wa.me/244922200667"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-2 bg-green-600/10 hover:bg-green-600/20 border border-green-600/20 text-green-400 font-medium py-3 rounded-xl transition text-sm"

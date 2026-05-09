@@ -205,7 +205,7 @@ export default function Gallery() {
           <div className="flex items-center gap-3">
             {/* Botão Contactar M.A CODE */}
             <a
-              href="https://wa.me/244937999343"
+              href="https://wa.me/244921258719"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:flex items-center gap-2 bg-green-600/10 hover:bg-green-600/20 border border-green-600/20 text-green-400 text-xs font-medium px-3 py-2 rounded-xl transition"
